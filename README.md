@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeeva@digitallimat
+- 👋 Hi, I’m Jeeva
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 
